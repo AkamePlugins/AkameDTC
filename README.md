@@ -22,6 +22,7 @@ Un bloque especial del mapa tiene una vida configurable. Cada golpe válido le r
 - **Historial y estadísticas** de eventos y jugadores en SQLite.
 - **Configuración validada:** si `settings.yml` tiene un error, se indica la ruta y el valor, y se conserva la configuración anterior.
 - **Mensajes totalmente editables** en `messages.yml`.
+- **Configuración que se actualiza sola:** al instalar una versión nueva se añaden las opciones que faltan en tus archivos, con una copia de seguridad y sin tocar tus valores.
 
 ## Comandos
 
