@@ -15,7 +15,7 @@ Un bloque especial del mapa tiene una vida configurable. Cada golpe válido le r
 - **Evento por estados:** sin configurar, desactivado, activo y en pausa, con transiciones controladas.
 - **Ranking con empates:** las posiciones se comparten (1, 1, 3, 4).
 - **Recompensas persistentes:** cada premio se registra en base de datos antes y después de ejecutarse, y las entregas interrumpidas se pueden revisar y reintentar a mano.
-- **Horarios automáticos** con zona horaria y cambios de hora de verano.
+- **Horarios automáticos** con zona horaria y cambios de hora de verano, y cuenta atrás en horas y minutos hasta el próximo evento.
 - **Interfaz:** BossBar, ActionBar y avisos globales de golpes, con sonidos configurables.
 - **Hologramas opcionales** con FancyHolograms o DecentHolograms, y **PlaceholderAPI** opcional.
 - **Recuperación tras reinicio:** el evento activo continúa donde estaba, con su puntuación.
